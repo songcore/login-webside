@@ -1,0 +1,40 @@
+body {
+    background: url(wp9005289-alone-boy-walking-on-road-wallpapers.jpg)fixed no-repeat;
+    background-size: cover ;
+
+.Login {
+    border: 3px solid;
+    width: 260px;
+    height: 280px;
+    font-size: 16px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    background: transparent;
+    backdrop-filter: blur(20px);
+}
+
+.Login .text {
+    text-align: center;
+    color: white;
+    
+}
+
+.Login .username-password input {
+    width: 95%;
+    height: 25px;
+    margin-top: 10px;
+    border-radius: 7px;
+    border: 1px solid;
+    outline: none;
+    background: transparent;
+    font-size: 1em;
+}
+
+.Login .username-password .lableline {
+    color: white;
+    margin-top: 15px;
+}
+
